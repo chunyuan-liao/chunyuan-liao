@@ -4,7 +4,7 @@
 
 ### 📈 Quant & Engineering Experience
 - **Jane Street FTTP** | Selected Participant for the First-Year Trading and Technology Program (Hong Kong).
-- **Citadel Terminal** | APAC Regional Finalist in the algorithmic trading competition.
+- **Citadel Terminal** | Selected for APAC Regional participant in the algorithmic trading competition.
 - **WorldQuant BRAIN** | Research Consultant (Gold Level).
 
 ### 🔬 Research & Projects
